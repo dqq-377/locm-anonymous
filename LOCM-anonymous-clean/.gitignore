@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+.env
+.idea/
+.vscode/
+results/
+checkpoints/
+*.pt
+*.pth
+*.log
+global_memory/
+.DS_Store
